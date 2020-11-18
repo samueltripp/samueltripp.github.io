@@ -43,4 +43,4 @@ Lauren's newsletter, [Keats-Free Zone](https://tinyletter.com/KFZ), always brigh
 
 Eric's project on [Biodiversity in Vermont](https://storymaps.arcgis.com/collections/3bce9804f297409badc0833c40989552) inspires me to look at the world with fresh eyes.
 
-
+I love hearing people talk about topics they are passionate and knowledgeable about, especially if I know nothing about them. [Keelia](https://doulakeelia.com/) does that with her co-host Ajira on [Doula Stories](https://www.doulastories.com/). 
