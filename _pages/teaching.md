@@ -13,7 +13,7 @@ Teaching is the most important thing I do. I spend a fair amount of my time work
 
 **Dartmouth College**
 
-I taught [Math 31], Topics in Algebra, in the summer of 2020. 
+I taught [Math 31], Topics in Algebra, in the summer of 2020. This course was remote. 
 
 I taught [Math 1] in the fall of 2019, and many of my course materials can be found on the course webpage.
 
