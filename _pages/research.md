@@ -15,7 +15,7 @@ My research is in low-dimensional topology under the guidance of [Ina Petkova]. 
 
 **Prior Work**
 
-My first year of graduate school I was fortunate to be involved in a project on Hilbert modular forms. I helped compute canonical graded rings of parallel weight HMFs, and specialized Siegel modular forms/Igusa invariants to these spaces.
+My first year of graduate school I was very fortunate to be involved in a project on Hilbert modular forms. I helped compute canonical graded rings of parallel weight HMFs, and specialized Siegel modular forms/Igusa invariants to these spaces.
 
 As an undergraduate, my REU research was focused on commutative algebra; namely the level of control over the generic formal fiber of complete local rings.
 
