@@ -29,3 +29,4 @@ As an undergraduate, my REU research was focused on commutative algebra; namely 
 [here.]:https://samueltripp.github.io/files/TrippResearchStatement_Oct2021.pdf
 [On grid homology for lens space links: combinatorial invariance and integral coefficients]:https://arxiv.org/abs/2110.00663
 [L-space knots with tunnel number $>1$ by experiment]:https://arxiv.org/abs/1909.00790
+[Controlling the generic formal fiber of local domains and their polynomial rings]:https://samueltripp.github.io/files/SMALL.pdf
