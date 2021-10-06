@@ -1,0 +1,34 @@
+---
+title: 'July 2021 Reads'
+date: 2021-08-01
+permalink: /posts/2021/08/julyreads
+tags:
+  - reading
+  - books
+---
+
+In July of 2021 I read three books. One of these was fiction, and two were nonfiction.
+
+_The Field Guide to Dumb Birds of North America_, by Matt Kracht:\
+This was a present from a friend, and was very fun to read. It has crass descriptions of common birds, and is well done. A good addition to the birding books I have. 63/100
+
+_The Overcoat and Other Tales of Good and Evil_, by Nikolai Gogol:\
+I read somewhere that all Russian literature comes from The Overcoat. Decided it was time to read it. The whole collection was fascinating. The fantasticism just pervades all the writing, but not in a bad way. I liked this. 68/100
+
+_Mochi's War_, by Chris Enss and Howard Kazanjian:\
+This book stunk. In 1864, American soldiers massacred members of the Cheyenne and Arapaho tribes at Sand Creek. Mochi escaped, and was part of a group of Cheyenne who fought back against Americans until her capture in 1875. This story should be told with honor and reverence, a sense of history, and nuance. It had none of those things. I would now like to seek out a history of Mochi which is well-written. 32/100
+
+
+Again, I will return to old quotes from readings, with some commentary.
+
+This quote is from _Barbarian Days_, William Finnegan's memoir of his obsession with surfing.
+
+_My railroad novel was still bouncing between publishers. The few interested editors wanted me to unpack the technical language, the railroad jargon, for the general reader, but that was where the poetry was, I thought, the elusive genius of place and workplace that I hoped to capture._
+
+I think of this often, and it was a funny thing for Finnegan to write, because _Barbarian Days_ itself captured much of the same. Passion comes through writing, even if I don't understand all the jargon, and that's exactly part of what I want out of reading. To break it down so it is all understandable necessary makes it lose some of its magic. I couldn't follow everything he wrote about surfing in this book, and that is part of why it entranced me.
+
+_The Mushroom At The End of the World_ by Anna Tsing tells the story of matsutake mushrooms. Just like the mushrooms themselves, this story reaches into unexpected areas. (On a side note, this was an obscure recommendation from a friend, one of those books I read but don't expect to see many other places. But at a book store two weeks ago it was a staff pick!)
+
+_Furthermore, as a beginning, disturbance is always in the middle of things: the term does not refer us to a harmonious state before disturbance. Disturbances follow other disturbances._
+
+My vague memory of why this spoke to me is because it felt understated: in my mind, everything is always in the middle of things. To talk about any event, disturbance or otherwise, as a proper beginning or end without acknowledging what came before or after seems cheap. Perhaps disturbance especially, and certainly so in the context of mushrooms. 
