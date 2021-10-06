@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a fourth-year PhD student in mathematics at Dartmouth College. This website compiles information about my teaching and research, as well as sparse information about my other hobbies and an occasional blog post.
+Welcome! I am currently a fifth-year PhD student in mathematics at Dartmouth College. I am on the job market as of the fall of 2021. This website compiles information about my teaching and research, as well as sparse information about my other hobbies and an occasional blog post.
