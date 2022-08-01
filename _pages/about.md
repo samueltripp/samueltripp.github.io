@@ -1,5 +1,4 @@
-ls
-1;95;0c---
+---
 permalink: /
 title: ""
 excerpt: "About me"

@@ -38,4 +38,4 @@ I had a number of instructional experiences during my undergraduate years at Wil
 [Math 24]:https://math.dartmouth.edu/~m24s19/
 [Math 1]:https://math.dartmouth.edu/~m1f19
 [Math 20]:https://math.dartmouth.edu/~m20s22
-[MA 2071]:
+[MA 2071]:https://web.wpi.edu/academics/catalogs/ugrad/macourses.html
