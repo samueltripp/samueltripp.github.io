@@ -11,9 +11,10 @@ author_profile: true
 
 **Research**
 
-My research is in low-dimensional topology under the guidance of [Ina Petkova]. I am currently focusing mostly on tangle Floer homology and combinatorial versions of knot Floer homology. I also work on connections with Khovanov homology, and applications to contact topology. My current research statement can be seen [here.]
+My research is in low-dimensional topology. I try to work on combinatorial and computational problems, but not exclusively. I am currently focusing mostly on tangle Floer homology and combinatorial versions of knot Floer homology. I also work on connections with Khovanov homology, and applications to contact topology. An older version of my research statement from when I was on the job market in the fall of 2021 can be found [here.]
 
 **Publications and Pre-prints**\
+[On the invariance of the Dowlin spectral sequence] (with Z. Winkeler)\
 [On grid homology for lens space links: combinatorial invariance and integral coefficients]\
 [L-space knots with tunnel number $>1$ by experiment] (with C. Anderson, K. Baker, X. Gao, M. Kegel, K. Le, K. Miller, S. Onaran, G. Sangston, A. Wood, and A. Wright), to appear in Experimental Mathematics\
 [Controlling the generic formal fiber of local domains and their polynomial rings] (with P. Jiang, A. Kirkpatrick, S. Loepp, and S. Mack-Crane)
@@ -30,3 +31,4 @@ As an undergraduate, my REU research was focused on commutative algebra; namely 
 [On grid homology for lens space links: combinatorial invariance and integral coefficients]:https://arxiv.org/abs/2110.00663
 [L-space knots with tunnel number $>1$ by experiment]:https://arxiv.org/abs/1909.00790
 [Controlling the generic formal fiber of local domains and their polynomial rings]:https://samueltripp.github.io/files/SMALL.pdf
+[On the invariance of the Dowlin spectral sequence]:http://arxiv-export-lb.library.cornell.edu/abs/2207.14415

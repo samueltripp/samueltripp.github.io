@@ -1,4 +1,5 @@
----
+ls
+1;95;0c---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -8,4 +9,4 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!** I am currently a fifth-year PhD student in mathematics at Dartmouth College. I am on the job market as of the fall of 2021. This website compiles information about my teaching and research, as well as sparse information about my other hobbies and an occasional blog post.
+**Welcome!** I am currently an Assistant Teaching Professor at Worcester Polytechnic Institute. I recently received my PhD from Dartmouth College under the instruction of Ina Petkova. My research is in low-dimensional topology and knot homologies, and I care deeply about teaching. This website compiles information about my teaching and research, as well as sparse information about my other hobbies and an occasional blog post. 

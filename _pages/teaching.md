@@ -9,9 +9,15 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching is the most important thing I do. I spend a fair amount of my time working on and thinking about teaching, either through the Dartmouth math department's teaching or TA seminars or with the folks at [DCAL].
+Teaching is the most important thing I do. 
+
+**WPI**
+
+I am teaching [MA 2071], Matrices and Linear Algebra I, in A Term 2022. 
 
 **Dartmouth College**
+
+I taught [Math 20], Probability, in the spring of 2022. 
 
 I taught [Math 31], Topics in Algebra, in the summer of 2020. This course was remote. 
 
@@ -31,4 +37,5 @@ I had a number of instructional experiences during my undergraduate years at Wil
 [Math 13]:https://math.dartmouth.edu/~m13w18/
 [Math 24]:https://math.dartmouth.edu/~m24s19/
 [Math 1]:https://math.dartmouth.edu/~m1f19
-
+[Math 20]:https://math.dartmouth.edu/~m20s22
+[MA 2071]:

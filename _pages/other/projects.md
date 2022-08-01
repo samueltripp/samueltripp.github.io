@@ -21,11 +21,13 @@ The loveliest of friends [Christine Reighley](https://christinereighley.com/) an
 
 **Music**
 
+<!---
 Fellow cross-country-cyclist Jack Davis makes the best garage surf punk music I have heard, with his band [Birdgangs](https://birdgangs.com/), and you should check them out live if given the chance.
+-->
 
 I went to college with [Mari](https://open.spotify.com/artist/3pl23KkxEpDvK77RU5V7S9?si=OtjwhBadQM21Ey5j3yrQXQ), whose music I can't get enough of.
 
-One of my oldest and dearest friends is [Jake Arthur](https://www.jakearthurmusic.com/), and I am lucky to have been listening to him for many of those years.
+One of my oldest and dearest friends is [Jake Arthur](https://www.jakearthurmusic.com/), and I am lucky to have been listening to him for many of those years. He continues to develop as quite the songwriter. 
 
 [Bar Scott](https://barscott.com/) has made some of my favorite music I have ever had the pleasure of hearing, which makes sense as she is one of the most lovely people.
 
@@ -41,6 +43,6 @@ Read what Garth's goal is at [Franklin Woodworking](http://www.franklinwoodworki
 
 Lauren's newsletter, [Keats-Free Zone](https://tinyletter.com/KFZ), always brightens my day when it lands in my inbox.
 
-Eric's project on [Biodiversity in Vermont](https://storymaps.arcgis.com/collections/3bce9804f297409badc0833c40989552) inspires me to look at the world with fresh eyes.
+Eric's project on [Biodiversity in Vermont](https://storymaps.arcgis.com/collections/3bce9804f297409badc0833c40989552) inspires me to look at the world with fresh eyes. Much of this work has been compiled into [Our Better Nature](https://www.amazon.com/Our-Better-Nature-Excursions-Biodiversity-ebook/dp/B0B1VPXGHJ). 
 
 I love hearing people talk about topics they are passionate and knowledgeable about, especially if I know nothing about them. [Keelia](https://doulakeelia.com/) does that with her co-host Ajira on [Doula Stories](https://www.doulastories.com/). 
