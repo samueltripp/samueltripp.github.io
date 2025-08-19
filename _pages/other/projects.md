@@ -15,9 +15,9 @@ I strongly prefer to support the industry of friends or friends of friends. I ha
 
 [Matt Echelman](https://matthewechelman.com) is amongst my closest friends, and is a diligent filmmaker and storyteller.
 
-My cousin, [Katye Martens Brier](https://www.katyemartensbrier.com/), and her husband Joe Brier are the best photographers and wedding photographers I could imagine, as [Maple and Main Media](https://www.mapleandmainmedia.com/).
+My cousin, Katye Martens Brier and her husband Joe Brier are the best photographers and wedding photographers I could imagine, as [Maple and Main Media](https://www.mapleandmaincreative.com/).
 
-The loveliest of friends [Christine Reighley](https://christinereighley.com/) and Cam Held own and operate [Maine The Way](https://mtwquarterly.com/), my favorite publication.
+The loveliest of friends Christine Reighley and Cam Held own and operate [Maine The Way](https://mtwquarterly.com/), my favorite publication.
 
 **Music**
 
@@ -33,7 +33,7 @@ One of my oldest and dearest friends is [Jake Arthur](https://www.jakearthurmusi
 
 **Physical Goods**
 
-A friend from high school, I have admired [Steve Buduo's](http://www.stevebuduo.com/) art from afar for many, many years.
+A friend from high school, I have admired [Steve Buduo's](http://www.stevenbuduo.com/) art from afar for many, many years.
 
 A friend of a friend from college, I have admired [Lucie Coleman's](https://www.lmcprintshop.com/) prints for fewer years, but to no less satisfaction.
 
