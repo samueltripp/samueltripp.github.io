@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!** I am currently an Assistant Teaching Professor at Worcester Polytechnic Institute. I recently received my PhD from Dartmouth College under the instruction of Ina Petkova. My research is in low-dimensional topology and knot homologies, and I care deeply about teaching. This website compiles information about my teaching and research, as well as sparse information about my other hobbies and an occasional blog post. 
+**Welcome!** I am currently an Assistant Professor of Teaching at Worcester Polytechnic Institute. My office is Stratton Hall 305. I am mainly focused on teaching mathematics well, as well as doing undergraduate research projects with students. My dissertation was in low-dimensional topology under Ina Petkova. This website compiles information about my teaching and research, as well as sparse information about my other hobbies and an occasional blog post. 
