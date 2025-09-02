@@ -9,27 +9,15 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching is the most important thing I do. 
+Teaching is the most important thing I do. I am interested in many areas of math pedagogy, including active learning, alternative grading, games in the classroom, metacognition, and project-based learning. I am most interested in learning from and with others, so please get in touch and let's talk about your experiences with any of these in the classroom. 
 
 **WPI**
 
-I am teaching [MA 2071], Matrices and Linear Algebra I, in A Term 2022. 
+I have taught a number of classes at WPI, including Calculus 3, Denksport, Matrices and Linear Algebra I, Accelerated Matrices and Linear Algebra I, Matrices and Linear Algebra II, Group Theory, and three courses in the Masters in Math for Educators program: Linear Models, Numbers, Polynomials, and Algebraic Structures, and Discrete Mathematics. I am looking forward to teaching a wider variety of classes as I continue at WPI. I have also led independent studies in topology, algebraic topology, and knot theory. 
 
-**Dartmouth College**
+**Prior to WPI**
 
-I taught [Math 20], Probability, in the spring of 2022. 
-
-I taught [Math 31], Topics in Algebra, in the summer of 2020. This course was remote. 
-
-I taught [Math 1] in the fall of 2019, and many of my course materials can be found on the course webpage.
-
-The Dartmouth math department's teaching seminar culminates in two, week-long [math camps](https://math.dartmouth.edu/activities/exploring-mathematics/). In 2019, we ran one week on Networks in the Real World, and one week on A Mathematical Approach to Winning.
-
-At Dartmouth, I have also been the TA for [Math 24], [Math 13] twice, and [Math 11]. At Dartmouth, graduate TAs are responsible for office-hour like sessions we call tutorials, and grading exams.
-
-**Williams College**
-
-I had a number of instructional experiences during my undergraduate years at Williams College. These included twice being the TA for discrete math courses, once being the lab TA for a data sciences course, and being a tutor in many capacities; for calculus as part of the college's central clearinghouse, and for chemistry and physics for high schoolers.
+As a graduate student, I was the instructor of record for Probability, Topics in Algebra, and Calculus I at Dartmouth College. I also TAed a number of courses as both a graduate student and undergraduate student, and co-led two, week-long [math camps]. 
 
 [DCAL]: https://dcal.dartmouth.edu/
 [Math 31]: https://canvas.dartmouth.edu/courses/40902
@@ -39,3 +27,4 @@ I had a number of instructional experiences during my undergraduate years at Wil
 [Math 1]:https://math.dartmouth.edu/~m1f19
 [Math 20]:https://math.dartmouth.edu/~m20s22
 [MA 2071]:https://web.wpi.edu/academics/catalogs/ugrad/macourses.html
+[math camps]:https://math.dartmouth.edu/activities/exploring-mathematics/
